@@ -2,6 +2,7 @@
 #
 # Author: Maxime BOCHON
 # E-mail: maxime.bochon@gmail.com
+# Site : https://github.com/maximebochon/validate-yaml-against-json-schema
 # Created: 2019-04-04
 # Version: 2019-04-23
 #
